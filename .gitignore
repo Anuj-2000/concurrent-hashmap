@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Prerequisites
 *.d
 
@@ -39,3 +40,33 @@
 
 # debug information files
 *.dwo
+=======
+# Compiled binaries
+benchmark
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Build directories
+build/
+cmake-build-*/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Performance profiling
+*.prof
+perf.data*
+core
+>>>>>>> ca791b7 (Initial commit: Project setup)
