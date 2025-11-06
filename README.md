@@ -132,3 +132,13 @@ I'm currently exploring opportunities in product companies where I can work on p
 ---
 
 Built while learning about concurrent programming and trying to understand the patterns we use at work. Not perfect, but it works and taught me a lot!
+
+### ✅ Completed
+- [x] Core data structure design
+- [x] Basic operations (get, put, remove, contains)
+- [x] Bucket-level locking implementation
+- [x] Reader-writer optimization
+- [x] Comprehensive benchmark suite
+- [x] Performance comparison with global mutex
+- [x] Detailed documentation
+
